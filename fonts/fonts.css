@@ -1,0 +1,48 @@
+@font-face {
+  font-family: 'Lobster';
+  src: url(Lobster-Regular.ttf) format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('opensans-regular-webfont.woff') format('woff'),
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('opensans-bold-webfont.woff') format('woff'),
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('opensans-italic-webfont.woff') format('woff'),
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Mirad';
+  src: url('MyriadPro-Regular.woff') format('woff'),
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Mirad';
+  src: url('MyriadPro-Bold.woff') format('woff'),
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Mirad';
+  src: url('MyriadPro-It.woff') format('woff'),
+  font-weight: normal;
+  font-style: italic;
+}
+
